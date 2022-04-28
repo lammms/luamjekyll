@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Annotated Bibliography
-permalink: /about/
 ---
 
 World Literatures: Exploring the Cosmopolitan-Vernacular Exchange
