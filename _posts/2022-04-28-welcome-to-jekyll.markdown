@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Week 1: Code is not neutral"
 date:   2021-11-16 11:21:02 -0400
 categories: jekyll update
 ---
