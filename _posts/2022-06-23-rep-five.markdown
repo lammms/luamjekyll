@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Progress Report: Week 5"
+date:   2022-06-23 11:21:02 -0400
+categories: jekyll update
+---
+<!-- wp:paragraph -->
+<p>This week I continued work on my individual project about the translations of Caribbean authors. I focused on two main tasks this week, making my spreadsheets and researching.<br>
+
+The spreadsheet I began to make this week was on the author Edwidge Danticat that I am focusing on. This author will not be the only author I look at for my individual project, but I decided to start with her books first. The first thing I did was copy her information from the “Visualizing Caribbean Literature” group project. I transferred this information to what would be my first sheet on Danticat. I deleted the columns that I would not need and arranged them to my liking.
+</p>
+<!-- /wp:paragraph -->
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
