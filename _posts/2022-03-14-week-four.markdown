@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Week 1: Code is not neutral"
+date:   2022-03-14 11:21:02 -0400
+categories: jekyll update
+---
+<!-- wp:paragraph -->
+<p>http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The article by Miriam Posner speaks to the challenges that humanists (traditional and digital) face and how she thinks librarians can help. One problem is the lack of collection of data. A humanists relation to data is usually that were they are mining for data to help answer their questions. This is difficult because the type of data that humanists search for is generally difficult to find. Humanists find themselves in odd places looking for data. This is in part due to another issue, the lack of collection of data or datasets. The lack of collections is what causes this game of hide and seek between the humanist and the data they are trying to collect. It would be impossible for a humanist to keep track of what information is available and where.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Second problem is how data is defined. Humanists have research questions that do not correlate to the current structure of data specifically time. Usually time is specified with the year and month or even the date and time. However, the way in which humanists answer questions surrounding time is on a much broader spectrum than this. For example, before, after and during an event or periods or eras of time. </p>
+<!-- /wp:paragraph -->
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
