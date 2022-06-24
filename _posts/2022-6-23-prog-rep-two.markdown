@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Week 1: Code is not neutral"
-date:   2021-11-16 11:21:02 -0400
+title:  "Progress Report: Week 2"
+date:   2022-06-23 11:21:02 -0400
 categories: jekyll update
 ---
 <!-- wp:paragraph -->
