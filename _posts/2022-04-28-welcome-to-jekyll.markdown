@@ -4,25 +4,13 @@ title:  "Welcome to Jekyll!"
 date:   2022-04-28 11:21:02 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+<!-- wp:paragraph -->
+<p>Week ones’ reading, “Ideologies of Boring Things: The Internet and Infrastructures of Race” by Emily Drabinski, was a thought provoking reading for me. The article is based on the book “Algorithms of Oppression” by Safiya Noble. The article pulls from the book examples that demonstrate how code reflects the views of those who create it. At this point in the article I started to think in recent years these errors have been fixed. I went on to search the examples and found nothing like Nobels’ results. I searched for gorillas and got pictures of the animal and not Africans. When I searched black teenagers, I got pictures of black teenagers' mugshots in the first few images, and when I searched for unprofessional hairstyles I got pictures of black women with natural hair. However these images were from articles written around 2016 when Noble published "The Intersectional Internet: Race, Sex, Class, and Culture".<br><br>So after this I began to think of what recent issues in code there have been. Have the issues in code been solved? I began to play around, searching Google images and Pinterest for “asian women”, “israelis” and “hispanic girl”. I found no images that tried to sway the user into having a negative view of these people or portrayed negative stereotypes of them. Then I thought to myself that most Google images that popped up were from Pinterest. Considering that images on Pinterest are uploaded by users of Pinterest, meaning that the images there are put there by users and not the makers of Pinterest (and now there are stricter guidelines on what you can upload on most platforms for fear of backlash from users) I doubted I could find anything that gave me similar results to Noble. <br><br>After a little while of trying to find a recent example of how code has been prejudiced or reflected the negative views of others that the creators of the code had, my brain began to work. Following Addison Rae’s appearance on Jimmy Fallon in which she performed eight TikTok dances many black TikTokers went on strike. The black creators on strike were those who made dance content. They stopped dancing and stopped making choreography for others to dance to. The issue was that they did not get recognition or credit for their work. Majority of the dances Addison performed were created by black creators or people of color. The (majority of the) blame is not to be placed on Addison or Fallon but on TikTok. Tiktok does not make it mandatory nor are there any systems in place to easily credit the original maker of a TikTok dance, sound or any other content. In a video created by Tee Noir on YouTube entitled “TikTok vs Black Creators: If You Hate Us Just Say Dat”, she explores ways in which TikTok could make it mandatory and easier to credit creators and also shares a theory as to why they have not done so. She says “I'm gonna go out on a limb here and say that the reason they keep allowing all this to happen is because they know that the  heartbeat of this app is POC creatives. People who are just doing this for fun. So they're probably recording on their androids in their messy rooms with bad lighting. And if this app makes it a way for  small creators with mediocre video setups to get the success they deserve  and they become the face of the app, it just doesn't look as good as these influencers with model-esque bodies dancing  in front of their backyard pools, now does it? Or the influencers dancing on their balconies that overlook the city of Malibu, huh?”<br><br>I believe this is a great current example of Nobel’s point. While it may not be as blatantly racist as looking for images of gorillas on Google and finding Africans, it shows how code is not politically neutral.</p>
+<!-- /wp:paragraph -->
 
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+<!-- wp:paragraph -->
+<p>Word count: 652</p>
+<!-- /wp:paragraph -->
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
